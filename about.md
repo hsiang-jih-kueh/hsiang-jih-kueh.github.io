@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I like solving problems and cracking bad jokes.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+If you'd like to hear one of my infamously lame jokes, feel free to email me here.
+[hsiangjihkueh@gmail.com](mailto:hsiangjihkueh@gmail.com)
