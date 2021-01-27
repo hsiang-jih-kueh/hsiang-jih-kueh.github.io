@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-
-I like solving problems and cracking bad jokes.
-
+My name's Conrad and I like solving problems and cracking terrible jokes.
 ### Contact me
-If you'd like to hear one of my infamously lame jokes, feel free to email me here.
+If you'd like a taste of my infamously lame sense of humour, feel free to email me here.
 [hsiangjihkueh@gmail.com](mailto:hsiangjihkueh@gmail.com)
