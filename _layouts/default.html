@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <!--MathJax-->
+  <!-- https://quuxplusone.github.io/blog/2020/08/19/mathjax-v3-in-jekyll/ -->
   <script
     type="text/javascript"
     id="MathJax-script"
@@ -11,6 +12,11 @@
     window.MathJax = {
       tex: {
         packages: ["base", "ams"],
+        inlineMath: [
+          ["$", "$"],
+          ["\\(", "\\)"],
+        ],
+        processEscapes: true,
       },
       loader: {
         load: ["ui/menu", "[tex]/ams"],
